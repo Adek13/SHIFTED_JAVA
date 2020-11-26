@@ -1,0 +1,1 @@
+[{"kimia":9,"biologi":8,"nama":"John","fisika":10},{"kimia":8,"biologi":10,"nama":"Peter","fisika":7},{"kimia":9,"biologi":8,"nama":"Steve","fisika":6}]

@@ -1,0 +1,1 @@
+[{"Tunjangan Pulsa":500000,"Tunjangan Entertaint":0,"Nama":"Manager1","Tunjangan Transport":1000000,"ID":11,"Absensi Hari":20,"Gaji Pokok":8000000,"No Telepon":["92839283","29389239"]},{"Tunjangan Pulsa":500000,"Tunjangan Entertaint":0,"Nama":"Manager2","Tunjangan Transport":1000000,"ID":12,"Absensi Hari":20,"Gaji Pokok":8000000,"No Telepon":["82893923982","9283928939"]}]

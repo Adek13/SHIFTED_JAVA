@@ -1,0 +1,1 @@
+[{"Tunjangan Pulsa":500000,"Nama":"Staf1","Email":["staf1@1.com","staf1@2.com"],"Tunjangan Makan":400000,"ID":21,"Absensi Hari":20,"Gaji Pokok":400000},{"Tunjangan Pulsa":500000,"Nama":"Staf2","Email":["staf2@1.com","staf2@2.com"],"Tunjangan Makan":400000,"ID":22,"Absensi Hari":20,"Gaji Pokok":400000}]
